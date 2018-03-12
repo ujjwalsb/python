@@ -1,0 +1,219 @@
+1520863901006	geckodriver	INFO	geckodriver 0.19.1
+1520863901024	geckodriver	INFO	Listening on 127.0.0.1:43805
+1520863902430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TBT3uVxIzgpu"
+1520863905309	Marionette	INFO	Enabled via --marionette
+1520863911461	Marionette	INFO	Listening on port 45353
+1520863913278	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520863957930	geckodriver	INFO	geckodriver 0.19.1
+1520863957941	geckodriver	INFO	Listening on 127.0.0.1:34231
+1520863958227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OfA66yQWbULR"
+1520863959693	Marionette	INFO	Enabled via --marionette
+1520863963751	Marionette	INFO	Listening on port 34893
+1520863963797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520864423332	geckodriver	INFO	geckodriver 0.19.1
+1520864423342	geckodriver	INFO	Listening on 127.0.0.1:50227
+1520864424717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i08Nshid19Un"
+1520864426139	Marionette	INFO	Enabled via --marionette
+1520864430414	Marionette	INFO	Listening on port 39099
+1520864430496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520864588154	geckodriver	INFO	geckodriver 0.19.1
+1520864588174	geckodriver	INFO	Listening on 127.0.0.1:36985
+1520864588563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cQ4gj2MMY4X8"
+1520864590412	Marionette	INFO	Enabled via --marionette
+1520864594774	Marionette	INFO	Listening on port 33535
+1520864594834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520864817798	geckodriver	INFO	geckodriver 0.19.1
+1520864817807	geckodriver	INFO	Listening on 127.0.0.1:56551
+1520864819117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WiDrhvorZ35h"
+1520864820909	Marionette	INFO	Enabled via --marionette
+1520864825043	Marionette	INFO	Listening on port 41511
+1520864825094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520864846512	geckodriver	INFO	geckodriver 0.19.1
+1520864846520	geckodriver	INFO	Listening on 127.0.0.1:60087
+1520864847830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1kNgpgF2z3P6"
+1520864849218	Marionette	INFO	Enabled via --marionette
+1520864853302	Marionette	INFO	Listening on port 34543
+1520864853437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520864868978	geckodriver	INFO	geckodriver 0.19.1
+1520864868986	geckodriver	INFO	Listening on 127.0.0.1:60781
+1520864870263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bmYBguQQuomv"
+1520864871755	Marionette	INFO	Enabled via --marionette
+1520864875787	Marionette	INFO	Listening on port 43035
+1520864875829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520864894113	geckodriver	INFO	geckodriver 0.19.1
+1520864894123	geckodriver	INFO	Listening on 127.0.0.1:40057
+1520864894401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iDOeXHDjZAf9"
+1520864896397	Marionette	INFO	Enabled via --marionette
+1520864901132	Marionette	INFO	Listening on port 44043
+1520864902228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520865178277	geckodriver	INFO	geckodriver 0.19.1
+1520865178286	geckodriver	INFO	Listening on 127.0.0.1:53429
+1520865179646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pzUhc3kKgCoC"
+1520865181126	Marionette	INFO	Enabled via --marionette
+1520865186733	Marionette	INFO	Listening on port 40841
+1520865186796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520865541013	geckodriver	INFO	geckodriver 0.19.1
+1520865541021	geckodriver	INFO	Listening on 127.0.0.1:53609
+1520865541368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XPOJQEkaXB5w"
+1520865545038	Marionette	INFO	Enabled via --marionette
+1520865549597	Marionette	INFO	Listening on port 40005
+1520865550575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520865574243	geckodriver	INFO	geckodriver 0.19.1
+1520865574251	geckodriver	INFO	Listening on 127.0.0.1:49885
+1520865575590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e1QAWqIpfqNw"
+1520865577021	Marionette	INFO	Enabled via --marionette
+1520865581034	Marionette	INFO	Listening on port 36783
+1520865581129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520865582625	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520865596278	geckodriver	INFO	geckodriver 0.19.1
+1520865596286	geckodriver	INFO	Listening on 127.0.0.1:50663
+1520865597563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BAt8Aq2Vj8Bb"
+1520865598992	Marionette	INFO	Enabled via --marionette
+1520865603085	Marionette	INFO	Listening on port 34857
+1520865603814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520865920149	geckodriver	INFO	geckodriver 0.19.1
+1520865920158	geckodriver	INFO	Listening on 127.0.0.1:60439
+1520865921454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aaLVbUnN9Fl9"
+1520865922879	Marionette	INFO	Enabled via --marionette
+1520865926949	Marionette	INFO	Listening on port 36087
+1520865927023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520866004407	geckodriver	INFO	geckodriver 0.19.1
+1520866004415	geckodriver	INFO	Listening on 127.0.0.1:42159
+1520866005803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.scE8Uj5lWwWP"
+1520866007293	Marionette	INFO	Enabled via --marionette
+1520866011392	Marionette	INFO	Listening on port 40543
+1520866011464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520866057099	geckodriver	INFO	geckodriver 0.19.1
+1520866057107	geckodriver	INFO	Listening on 127.0.0.1:57811
+1520866058456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2NQQPjpYDSpM"
+1520866059894	Marionette	INFO	Enabled via --marionette
+1520866063976	Marionette	INFO	Listening on port 46847
+1520866064036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Parent 7228, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520866097019	geckodriver	INFO	geckodriver 0.19.1
+1520866097027	geckodriver	INFO	Listening on 127.0.0.1:51317
+1520866098348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CAMOijqwSeIc"
+1520866100030	Marionette	INFO	Enabled via --marionette
+1520866104111	Marionette	INFO	Listening on port 44293
+1520866104202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1520866344626	geckodriver	INFO	geckodriver 0.19.1
+1520866344636	geckodriver	INFO	Listening on 127.0.0.1:43037
+1520866345935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LEMr3UAKB1qR"
+1520866347349	Marionette	INFO	Enabled via --marionette
+1520866351462	Marionette	INFO	Listening on port 43631
+1520866352575	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: 
+  Message: Error: findCssSelector received element not inside document
+  Stack:
+    findCssSelector@resource://gre/modules/css-selector.js:56:11
+getUniqueSelector@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:657:12
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1791:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:761:7
+
+findCssSelector@resource://gre/modules/css-selector.js:56:11
+getUniqueSelector@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:657:12
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1791:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:761:7
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1520866509799	geckodriver	INFO	geckodriver 0.19.1
+1520866509807	geckodriver	INFO	Listening on 127.0.0.1:60235
+1520866511083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i8s839fbeFiM"
+1520866512516	Marionette	INFO	Enabled via --marionette
+1520866516586	Marionette	INFO	Listening on port 42253
+1520866517646	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1520866604207	geckodriver	INFO	geckodriver 0.19.1
+1520866604217	geckodriver	INFO	Listening on 127.0.0.1:45659
+1520866605520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8aNjwhPxdRJr"
+1520866606949	Marionette	INFO	Enabled via --marionette
+1520866611279	Marionette	INFO	Listening on port 46631
+1520866611396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1520866779068	geckodriver	INFO	geckodriver 0.19.1
+1520866779096	geckodriver	INFO	Listening on 127.0.0.1:48411
+1520866779630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z5ZW0M7jkXud"
+1520866784606	Marionette	INFO	Enabled via --marionette
+1520866797001	Marionette	INFO	Listening on port 32943
+1520866798012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520866920765	geckodriver	INFO	geckodriver 0.19.1
+1520866920796	geckodriver	INFO	Listening on 127.0.0.1:50727
+1520866922081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HlnJJohu4VhC"
+1520866934028	Marionette	INFO	Enabled via --marionette
+1520866947314	Marionette	INFO	Listening on port 42885
+1520866952835	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520867490984	geckodriver	INFO	geckodriver 0.19.1
+1520867491032	geckodriver	INFO	Listening on 127.0.0.1:38131
+1520867492514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6AmzzW2QsZeV"
+1520867494756	Marionette	INFO	Enabled via --marionette
+1520867498934	Marionette	INFO	Listening on port 38707
+1520867499887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+1520867531494	geckodriver	INFO	geckodriver 0.19.1
+1520867531502	geckodriver	INFO	Listening on 127.0.0.1:50793
+1520867532795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Qux8BV32xXIP"
+1520867534200	Marionette	INFO	Enabled via --marionette
+1520867538083	Marionette	INFO	Listening on port 36339
+1520867538140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+1520867963406	geckodriver	INFO	geckodriver 0.19.1
+1520867963415	geckodriver	INFO	Listening on 127.0.0.1:60945
+1520867964713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AYAjTvizNE3P"
+1520867966141	Marionette	INFO	Enabled via --marionette
+1520867970107	Marionette	INFO	Listening on port 38335
+1520867970179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1520868015641	geckodriver	INFO	geckodriver 0.19.1
+1520868015649	geckodriver	INFO	Listening on 127.0.0.1:52799
+1520868016954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n5PRItUmxzdG"
+1520868018348	Marionette	INFO	Enabled via --marionette
+1520868022381	Marionette	INFO	Listening on port 41005
+1520868023411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+[Child 11725, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11725, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
